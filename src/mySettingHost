@@ -1,0 +1,18 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1       localhost
+138.54.252.55    chris-caideMacBook-Pro.local
+255.255.255.255	broadcasthost
+127.0.0.1	192.168.50.66 	
+::1             localhost
+
+
+share.dmhy.org 104.25.26.31
+#idea注册
+0.0.0.0 account.jetbrains.com
+101.266.6.6     lajiluoqi.com
+106.187.91.38   mabinogi.fws.tw
